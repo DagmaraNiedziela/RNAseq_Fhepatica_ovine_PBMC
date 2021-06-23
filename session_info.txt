@@ -1,0 +1,40 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19041)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_Ireland.1252  LC_CTYPE=English_Ireland.1252    LC_MONETARY=English_Ireland.1252 LC_NUMERIC=C                    
+[5] LC_TIME=English_Ireland.1252    
+
+attached base packages:
+ [1] grid      parallel  stats4    stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] UpSetR_1.4.0                org.Hs.eg.db_3.12.0         org.Bt.eg.db_3.12.0         OrganismDbi_1.32.0          GenomicFeatures_1.42.1     
+ [6] AnnotationDbi_1.52.0        gProfileR_0.7.0             forcats_0.5.0               stringr_1.4.0               dplyr_1.0.2                
+[11] purrr_0.3.4                 readr_1.4.0                 tidyr_1.1.2                 tibble_3.0.4                tidyverse_1.3.0            
+[16] gridExtra_2.3               VennDiagram_1.6.20          futile.logger_1.4.3         RColorBrewer_1.1-2          pheatmap_1.0.12            
+[21] ggpubr_0.4.0                ggplot2_3.3.2               DESeq2_1.30.0               SummarizedExperiment_1.20.0 Biobase_2.50.0             
+[26] MatrixGenerics_1.2.0        matrixStats_0.57.0          GenomicRanges_1.42.0        GenomeInfoDb_1.26.0         IRanges_2.24.0             
+[31] S4Vectors_0.28.0            BiocGenerics_0.36.0         rrcov_1.5-5                 robustbase_0.93-6           biomaRt_2.46.0             
+
+loaded via a namespace (and not attached):
+  [1] readxl_1.3.1             backports_1.2.0          BiocFileCache_1.14.0     plyr_1.8.6               splines_4.0.3            BiocParallel_1.24.1     
+  [7] digest_0.6.27            fansi_0.4.1              magrittr_1.5             memoise_1.1.0            openxlsx_4.2.3           Biostrings_2.58.0       
+ [13] annotate_1.68.0          modelr_0.1.8             askpass_1.1              prettyunits_1.1.1        colorspace_1.4-1         blob_1.2.1              
+ [19] rvest_0.3.6              rappdirs_0.3.1           ggrepel_0.8.2            haven_2.3.1              xfun_0.19                crayon_1.3.4            
+ [25] RCurl_1.98-1.2           jsonlite_1.7.1           graph_1.68.0             genefilter_1.72.0        survival_3.2-7           glue_1.4.2              
+ [31] gtable_0.3.0             zlibbioc_1.36.0          XVector_0.30.0           DelayedArray_0.16.0      car_3.0-10               DEoptimR_1.0-8          
+ [37] abind_1.4-5              scales_1.1.1             futile.options_1.0.1     mvtnorm_1.1-1            DBI_1.1.0                rstatix_0.6.0           
+ [43] Rcpp_1.0.5               xtable_1.8-4             progress_1.2.2           gridtext_0.1.1           foreign_0.8-80           bit_4.0.4               
+ [49] httr_1.4.2               ellipsis_0.3.1           pkgconfig_2.0.3          XML_3.99-0.5             dbplyr_2.0.0             locfit_1.5-9.4          
+ [55] tidyselect_1.1.0         rlang_0.4.8              munsell_0.5.0            cellranger_1.1.0         tools_4.0.3              cli_2.1.0               
+ [61] generics_0.1.0           RSQLite_2.2.1            broom_0.7.2              bit64_4.0.5              fs_1.5.0                 zip_2.1.1               
+ [67] RBGL_1.66.0              formatR_1.7              xml2_1.3.2               compiler_4.0.3           rstudioapi_0.13          curl_4.3                
+ [73] ggsignif_0.6.0           reprex_0.3.0             geneplotter_1.68.0       pcaPP_1.9-73             stringi_1.5.3            lattice_0.20-41         
+ [79] Matrix_1.2-18            vctrs_0.3.4              pillar_1.4.6             lifecycle_0.2.0          BiocManager_1.30.10      data.table_1.13.2       
+ [85] cowplot_1.1.0            bitops_1.0-6             rtracklayer_1.49.5       R6_2.5.0                 rio_0.5.16               lambda.r_1.2.4          
+ [91] assertthat_0.2.1         openssl_1.4.3            withr_2.3.0              GenomicAlignments_1.26.0 Rsamtools_2.6.0          GenomeInfoDbData_1.2.4  
+ [97] hms_0.5.3                ggtext_0.1.0             carData_3.0-4            lubridate_1.7.9.2        tinytex_0.27            
