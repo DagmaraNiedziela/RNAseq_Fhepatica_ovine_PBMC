@@ -1,4 +1,4 @@
-###### 30 10 2020 Start of bovine PBMC RNAseq pipeline ### 
+###### 30 10 2020 Start of ovine PBMC RNAseq pipeline ### 
 # Dagmara Niedziela 
 
 # Data is in separate folders, i.e. there are 3 overall data folders, followed by a separate folder for each sample, A1, A2 etc, and an MD5.txt file for each 
